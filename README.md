@@ -6,7 +6,7 @@ Building robust backend engines and securing digital infrastructure. Currently f
 
 ### 🚀 Technical Arsenal
 
-- **Languages:** C# (.NET), Asynchronous JavaScript, Java (Swing/FX), SQL
+- **Languages:** C# (.NET), Python, Django, React(JS), Java (Swing/FX), SQL
 - **Systems & Infrastructure:** Networking (IPv4/VLSM), SDL Frameworks, Version Control (Git/GitHub)
 - **Specializations:** Defensive Programming, Persistent Reporting, API Integration
 - **Current Learning:** Cisco Cybersecurity & Advanced .NET Architecture
@@ -28,7 +28,7 @@ Building robust backend engines and securing digital infrastructure. Currently f
 ---
 
 ### 📂 System Metrics
-- 🖥️ **OS Focus:** Windows Server & Kali Linux (Lab Environments)
+- 🖥️ **OS Focus:** Ubuntu & Kali Linux (Lab Environments)
 - ⚙️ **Workflow:** Git-based CI/CD via GitHub Actions
 - 🔒 **Security Focus:** Input Validation & Data Integrity
 
