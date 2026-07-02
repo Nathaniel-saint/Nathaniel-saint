@@ -6,7 +6,7 @@ Building robust backend engines and securing digital infrastructure. Currently f
 
 ### 🚀 Technical Arsenal
 
-- **Languages:** C# (.NET), Python, Django, React(JS), Java (Swing/FX), SQL
+- **Languages:** C# (.NET), Python, Django, React(JS), Java (Swing/FX), SQL, shell(bash)
 - **Systems & Infrastructure:** Networking (IPv4/VLSM), SDL Frameworks, Version Control (Git/GitHub)
 - **Specializations:** Defensive Programming, Persistent Reporting, API Integration
 - **Current Learning:** Cisco Cybersecurity & Advanced .NET Architecture
