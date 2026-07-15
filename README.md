@@ -22,7 +22,7 @@ Building robust backend engines and securing digital infrastructure. Currently f
 
 ### 📜 Verified Credentials
 - **Microsoft:** Foundational C# Certification
-- **Grow with Educ8africa:** CyberRookie 7.0 Participant
+- **Grow with Educ8africa:** CYBER SECURITY ESSENTIALS
 - **Cisco:** Introduction to Cybersecurity (In Progress)
 
 ---
